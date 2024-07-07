@@ -1,6 +1,4 @@
-![Screenshot 2024-07-07 235939](https://github.com/HimanshuTamoli24/Currency-Converter/assets/159616514/ca68649d-169e-4afc-8754-a3c24aa79e22)Here’s a `README.md` for your Currency Converter project, formatted similarly to your friend’s project:
 
----
 
 # Currency Converter
 
@@ -28,7 +26,7 @@ A simple and intuitive web application for converting amounts between various cu
 3. Click on the "Convert" button or press Enter to see the converted amount.
 
 ## Preview
-![Currency Converter](https://himanshutamoli24.github.io/Currency-Converter/)
+![Currency Converter](https://himanshutamoli24.github.io/Currency-Converter/image.png)
 
 ## API
 - [Frankfurter API](https://api.frankfurter.app/currencies): For fetching current exchange rates
